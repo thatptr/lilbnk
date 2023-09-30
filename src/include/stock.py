@@ -27,3 +27,4 @@ class market:
         self.stock[stock] = x
         account.withdraw(int(x))
         return True
+    
